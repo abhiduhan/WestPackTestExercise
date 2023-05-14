@@ -1,0 +1,33 @@
+# SpecFlow generated files
+*.feature.cs
+*.feature.cs.vb
+*.feature.cs.designer.cs
+*.feature.cs.designer.vb
+
+# NUnit generated files
+*.Tests.cs
+*.Tests.csproj
+TestResult.xml
+[nN]unit
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+bin/
+obj/
+TestResults/
+
+# Other
+[Tt]humbs.db
+*.log
+*.vs/
+*.bak
+*.nuget/
